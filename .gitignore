@@ -1,0 +1,8 @@
+# Build
+.env
+logs
+*.log
+yarn-debug.log*
+node_modules
+*.bundle
+env.js
